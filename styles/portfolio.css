@@ -12,7 +12,7 @@
     nav{
         display: flex;
         justify-content: space-between;
-        margin: 100px 100px;
+        padding: 100px 100px;
     }
     .nav-taital{
         font-weight: 800;
